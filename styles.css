@@ -7,9 +7,9 @@
 
 #container {
   display: grid;
-  grid-gap: 0px; /* Espacement entre les divs */
+  grid-gap: 0px;
   width: 700px;
-  height: 700px;
+  height: calc(100vh - 185px);
   margin: 20px auto;
 }
 
